@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Interstellar",
+        "genre": "Sci-Fi, Adventure, Drama",
+        "desc": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+    },
+    {
+        "title": "The Conjuring",
+        "genre": "Horror, Supernatural",
+        "desc": "Paranormal investigators work to help a family terrorized by a dark presence in their farmhouse."
+    },
+    {
+        "title": "Inception",
+        "genre": "Action, Sci-Fi, Thriller",
+        "desc": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea."
+    },
+    {
+        "title": "The Dark Knight",
+        "genre": "Action, Crime, Drama",
+        "desc": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests."
+    },
+    {
+        "title": "Everything Everywhere All at Once",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "desc": "A Chinese-American immigrant is swept up in an insane adventure, where she alone can save the world by exploring other universes."
+    },
+    {
+        "title": "Spirited Away",
+        "genre": "Animation, Adventure, Family",
+        "desc": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits."
+    },
+    {
+        "title": "Parasite",
+        "genre": "Drama, Thriller",
+        "desc": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+    },
+    {
+        "title": "La La Land",
+        "genre": "Comedy, Drama, Music",
+        "desc": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+    }
+]
